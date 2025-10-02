@@ -1,0 +1,44 @@
+slicing
+
+Basic Level
+
+Write a program to rotate a list to the left by one position.
+Example: [1,2,3,4,5] → [2,3,4,5,1]
+
+Rotate a list to the right by one position.
+Example: [1,2,3,4,5] → [5,1,2,3,4]
+
+Reverse a list using slicing ([::-1]).
+
+Take a list of numbers as input and print only the first half of the list.
+
+Print the list after removing the first and last elements using slicing.
+
+🔹 Intermediate Level
+
+Rotate a list to the left by k positions (user should enter k).
+Example: List = [1,2,3,4,5], k=2 → [3,4,5,1,2]
+
+Rotate a list to the right by k positions (user should enter k).
+Example: List = [1,2,3,4,5], k=3 → [3,4,5,1,2]
+
+Given a list, print every 2nd element using slicing.
+Example: [10,20,30,40,50] → [20,40]
+
+Swap the first half and the second half of a list using slicing.
+Example: [1,2,3,4,5,6] → [4,5,6,1,2,3]
+
+Take a string input and rotate its characters to the right by 2 positions.
+Example: "hello" → "lohel"
+
+🔹 Advanced Level
+
+Rotate a list in both directions (left and right) without using slicing (use loops instead).
+
+Given a circular rotation, find the element at the kth index after n rotations.
+
+Implement a function rotate_list(lst, k, direction) where direction can be "left" or "right".
+
+Use list comprehension to rotate a list by k positions.
+
+For a given list, perform rotation until it comes back to the original arrangement. Count the number of rotations needed.

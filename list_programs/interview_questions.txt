@@ -1,0 +1,19 @@
+1. Basic array/list questions
+
+Find the largest or smallest number in a list. --completed
+
+Find the second largest/smallest number. --completed
+
+Find the maximum difference between any two numbers.
+
+Find duplicates in a list. --completed
+
+Remove duplicates while keeping order.
+
+Find the frequency of each element.
+
+Check if a list is sorted.
+
+Rotate a list (left/right shift).
+
+Find pairs in a list that sum to a given target (common interview favorite).
