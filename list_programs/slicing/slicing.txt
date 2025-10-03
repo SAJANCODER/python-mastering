@@ -1,7 +1,7 @@
 slicing
 
 Basic Level
-
+(completed)
 Write a program to rotate a list to the left by one position.
 Example: [1,2,3,4,5] → [2,3,4,5,1]
 
@@ -15,7 +15,7 @@ Take a list of numbers as input and print only the first half of the list.
 Print the list after removing the first and last elements using slicing.
 
 🔹 Intermediate Level
-
+(completed)
 Rotate a list to the left by k positions (user should enter k).
 Example: List = [1,2,3,4,5], k=2 → [3,4,5,1,2]
 
@@ -33,7 +33,7 @@ Example: "hello" → "lohel"
 
 🔹 Advanced Level
 
-Rotate a list in both directions (left and right) without using slicing (use loops instead).
+Rotate a list in both directions (left and right) without using slicing (use loops instead). --completed
 
 Given a circular rotation, find the element at the kth index after n rotations.
 
