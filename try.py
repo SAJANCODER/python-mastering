@@ -1,8 +1,8 @@
-for i in range(2,100):
-    prime = True
-    for j in range(2,i):
-        if i%j==0:
-            prime=False
-            break
-    if prime:
-        print(f"prime number {i}")
+#Take a string input and rotate its characters to the right by 2 positions.
+#Example: "hello" → "lohel"
+
+num = input("Enter the string:")
+rotate = num[-2:] + num[:3]
+#           lo + hel
+print(rotate)
+
