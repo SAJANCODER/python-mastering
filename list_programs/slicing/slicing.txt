@@ -37,8 +37,8 @@ Rotate a list in both directions (left and right) without using slicing (use loo
 
 Given a circular rotation, find the element at the kth index after n rotations. --completed
 
-Implement a function rotate_list(lst, k, direction) where direction can be "left" or "right".
+Implement a function rotate_list(lst, k, direction) where direction can be "left" or "right". --completed
 
-Use list comprehension to rotate a list by k positions.
+Use list comprehension to rotate a list by k positions. --completed
 
 For a given list, perform rotation until it comes back to the original arrangement. Count the number of rotations needed.
