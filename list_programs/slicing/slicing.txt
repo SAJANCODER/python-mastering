@@ -41,4 +41,4 @@ Implement a function rotate_list(lst, k, direction) where direction can be "left
 
 Use list comprehension to rotate a list by k positions. --completed
 
-For a given list, perform rotation until it comes back to the original arrangement. Count the number of rotations needed.
+For a given list, perform rotation until it comes back to the original arrangement. Count the number of rotations needed. --completed

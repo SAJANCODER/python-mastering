@@ -1,6 +1,6 @@
 #Rotate a list in both directions (left and right) without using slicing (use loops instead).
 num = list(map(int,input("Enter the list:").split()))
-k = int(input("enter the k value: "))
+k = int(input("enter how many time to rotate using k value: "))
 n = len(num)
 left_rotate = num.copy()
 right_rotate = num.copy()

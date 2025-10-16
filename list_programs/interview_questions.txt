@@ -12,7 +12,7 @@ Remove duplicates while keeping order.
 
 Find the frequency of each element.
 
-Check if a list is sorted.
+Check if a list is sorted. --completed
 
 Rotate a list (left/right shift). --completed
 
