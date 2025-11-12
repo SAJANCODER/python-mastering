@@ -12,5 +12,7 @@ else:
     print(f"Before Swap: {num}")
     print(f"After Swap(Odd): {rotate}")
 
+print(mid)
+
 
 
