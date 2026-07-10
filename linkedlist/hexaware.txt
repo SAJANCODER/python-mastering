@@ -1,0 +1,12 @@
+Concept -- Hashmap
+
+Two Sum (HashMap) -done
+Character Frequency using a Dictionary --done
+First Non-Repeating Character --done
+Valid Anagram 
+Contains Duplicate --done
+Count Occurrences of Each Element --done
+Remove Duplicates from an Array --done
+Find the Majority Element --done
+Find the Missing Number --done
+Longest Consecutive Sequence (basic understanding)
