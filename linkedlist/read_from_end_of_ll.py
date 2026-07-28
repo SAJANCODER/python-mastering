@@ -50,9 +50,10 @@ current = head
 #     current = current.next
 
 #optimized
-
-slow = head 
-fast = head 
+dummy = Linked_list(0)
+dummy.next=head
+slow = dummy
+fast = dummy
 
 for i in range(x):
     fast = fast.next
@@ -60,7 +61,7 @@ while fast.next:
     slow=slow.next
     fast=fast.next
 slow.next = slow.next.next
-current = head
+current = dummy.next
 while current:
     print(current.digits)
     current = current.next
