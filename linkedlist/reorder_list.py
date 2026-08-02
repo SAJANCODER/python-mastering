@@ -1,3 +1,5 @@
+#goto reorder.md for understanding
+
 # 📅 Day 7 Challenge: Reorder List
 
 # Difficulty: Medium
